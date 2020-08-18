@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\Curso.NET\LoteriaApp\LoteriaConsole\LoteriaConsole\obj\Debug\netcoreapp3.1\LoteriaConsole.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Curso.NET\LoteriaApp\LoteriaConsole\LoteriaConsole\obj\Debug\netcoreapp3.1\LoteriaConsole.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Curso.NET\LoteriaApp\LoteriaConsole\LoteriaConsole\obj\Debug\netcoreapp3.1\LoteriaConsole.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Curso.NET\LoteriaApp\LoteriaConsole\LoteriaConsole\obj\Debug\netcoreapp3.1\LoteriaConsole.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Curso.NET\LoteriaApp\LoteriaConsole\LoteriaConsole\bin\Debug\netcoreapp3.1\LoteriaConsole.exe
+C:\Users\Usuario\Documents\Curso.NET\LoteriaApp\LoteriaConsole\LoteriaConsole\bin\Debug\netcoreapp3.1\LoteriaConsole.deps.json
+C:\Users\Usuario\Documents\Curso.NET\LoteriaApp\LoteriaConsole\LoteriaConsole\bin\Debug\netcoreapp3.1\LoteriaConsole.runtimeconfig.json
+C:\Users\Usuario\Documents\Curso.NET\LoteriaApp\LoteriaConsole\LoteriaConsole\bin\Debug\netcoreapp3.1\LoteriaConsole.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Curso.NET\LoteriaApp\LoteriaConsole\LoteriaConsole\bin\Debug\netcoreapp3.1\LoteriaConsole.dll
+C:\Users\Usuario\Documents\Curso.NET\LoteriaApp\LoteriaConsole\LoteriaConsole\bin\Debug\netcoreapp3.1\LoteriaConsole.pdb
+C:\Users\Usuario\Documents\Curso.NET\LoteriaApp\LoteriaConsole\LoteriaConsole\obj\Debug\netcoreapp3.1\LoteriaConsole.dll
+C:\Users\Usuario\Documents\Curso.NET\LoteriaApp\LoteriaConsole\LoteriaConsole\obj\Debug\netcoreapp3.1\LoteriaConsole.pdb
+C:\Users\Usuario\Documents\Curso.NET\LoteriaApp\LoteriaConsole\LoteriaConsole\obj\Debug\netcoreapp3.1\LoteriaConsole.genruntimeconfig.cache
